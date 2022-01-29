@@ -1,1 +1,1 @@
-# open-jam-box
+# An open modular synthesizer
